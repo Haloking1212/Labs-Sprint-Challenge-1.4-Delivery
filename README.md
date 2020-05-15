@@ -31,27 +31,50 @@ Describe each phase and how you contributed to it as an engineer. **Please provi
 
 **Product vision document (PVD):** Explain what you contributed to the vision of the product and how you participated in the planning process. **Provide a screenshot/s of the portions of the PVD to which you contributed.**
 
+Answer: I helped come up with some questions and tech stack. we just all spoke together and ask what we were most comfortable with and went with what we knew.
+
 ### Prompt 2
 
 **Release canvas/es:** Explain what you contributed to your release canvases. **Provide screenshots.**
+
+Answer: i helped with with the landing-page.
 
 ### Prompt 3
 
 **Trello & task breakdown:** Describe your contributions to the task breakdown of your Trello board. **Screenshot Trello cards that you made.**
 
+Answer: i helped set-up a skeleton for redux and the landing-page.
+
 ### Prompt 4
 
 **Local environment:** Elaborate on your local environment set up. What problems came up during your local development environment set up? How did you overcome them?
+
+Answer: alot of merge conflicts we just fixed the issues one by one by fixing one merge then another person would pull that updated code and fix it on their local computer then pushing to github.
+
 **Local environments for DS students could mean:** pipenv, virtualenv, docker, or k8 clusters. How have you utilized tools to ensure reproducibility when your product is deployed? How do packages and dependencies get loaded into your hosted environment?
 
 ### Prompt 5
 
 **Pull requests:** Show us a piece of your code that you're proud of. **Provide a link to a pull request that you're proud of.**
+
+`
+.home-div{
+    font-size: 25px;
+    color: aliceblue;
+    background-image: linear-gradient(rgb(88,151,250), white);
+    width: 100%;
+    text-align: center;
+}
+`
+i am proud of this code because i use the linear-gradient css property which i think is such a cool style.
+
 **For DS Students:** if you haven't made a pull request, provide a link to the commits you have made to the repo. If you have not been working on code directly, expand on what other aspects of the project you have focused on.
 
 ### Prompt 6
 
 **Code reviews:** Describe your team's code-review process. How many reviewers reviewed your pull-request that was screen-shot above? **Link to a Pull-request that you personally reviewed.**
+
+Answer: My team looks at the code and makes sure its simple enough for them to understand.
 
 ### Prompt 7
 
@@ -60,6 +83,8 @@ Describe each phase and how you contributed to it as an engineer. **Please provi
 ### Prompt 8
 
 **Release to production:** Describe how you shipped features to production. Who gave final approval? **Provide screenshots to the individual features you personally contributed to the project (could be front end or backend code, or screens you built for native mobile).**
+
+Answer: we speak to the stakeholder and if they like it we push it.
 
 ## UX Designers
 
